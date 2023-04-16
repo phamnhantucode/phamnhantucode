@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Profile Picture](https://static.topcv.vn/avatars/95EJ9bBcexvVWtuG6Uz0_63ee334c17406_cvtpl.jpg)
 
-Hello, I'm a beginner Android Developer. I'm currently learning Java programming and Android development through online courses and personal projects. I'm excited to start my journey in the Android development industry and I'm eager to learn from experienced developers. Although I'm new to Android development, I'm committed to honing my skills and building innovative mobile applications that provide value to users. I'm a hard worker and I'm always willing to take on new challenges. As a beginner Android Developer, I'm looking forward to learning as much as possible and contributing to the development of cutting-edge mobile applications.
+Hello, I'm a beginner Mobile Developer. I'm currently learning Mobile development through online courses (Youtube), documents and make personal projects. I'm excited to start my journey in the Mobile development industry and I'm eager to learn from experienced developers. Although I'm new to Mobile development, I'm committed to honing my skills and building innovative mobile applications that provide value to users. I'm a hard worker and I'm always willing to take on new challenges. As a beginner Mobile Developer, I'm looking forward to learning as much as possible and contributing to the development of cutting-edge mobile applications.
 
 ## Skills
 
@@ -31,7 +31,8 @@ Hello, I'm a beginner Android Developer. I'm currently learning Java programming
 - HTML5, CSS3, JS
 - MySQL
 - RESTful API
-- Git, GitHub, Bitbucket
+- Git, GitHub
+- React Native
 
 ## Projects
 

@@ -44,9 +44,11 @@ This project is a culmination of my learning journey, where I have gained practi
 
 By working on these projects, I have gained valuable experience in developing full-stack Android applications, from building robust backend systems to creating intuitive user interfaces. I have also honed my problem-solving skills and have become adept at troubleshooting issues that arise during the development process. Overall, this project represents my growth as an Android Developer and my commitment to continually improving my skills and knowledge.
 
-### [VOCA English(in process)](https://github.com/phamnhantucode/VOCA-English)
+### [Chat App With Video call using WebRTC](https://github.com/phamnhantucode/Social-Networking-and-Communication-Android-App)
 
-This project is designed with the purpose of learning English, building vocabulary, creating English paragraphs, connecting with friends, receiving notifications, scheduling study sessions, and utilizing Firebase to create user accounts and enable real-time database storage. It also involves fetching data from various web APIs to use in the application and utilizing Room database to store application data.
+Real-time chat: A messaging app that allows users to communicate in real-time using websocket.
+Video calls: An app that enables users to make high-quality video calls using WebRTC, peer-to-peer connection, with features such as screen sharing and call recording.
+KotlinKtor - Backend: Strong skills in developing server-side applications using the Ktor framework, including handling HTTP requests and responses, and managing real-time communication using websockets.
 
 ## Education
 

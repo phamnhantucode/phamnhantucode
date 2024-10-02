@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamnhantucode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hello, I'm Tran Bao!
 
 ![Profile Picture](https://static.topcv.vn/avatars/95EJ9bBcexvVWtuG6Uz0_63ee334c17406_cvtpl.jpg)

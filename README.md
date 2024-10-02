@@ -25,6 +25,8 @@ Hello, I'm a beginner Mobile Developer. I'm currently learning Mobile developmen
 
 - Java
 - Kotlin
+- Flutter
+- Mobile development
 - Android development
 - HTML5, CSS3, JS
 - MySQL
@@ -48,7 +50,7 @@ This project is designed with the purpose of learning English, building vocabula
 
 ## Education
 
-- Vietnam-Korea University of Information and Communication Technology (2021- expected graduate in 2026)
+- Vietnam-Korea University of Information and Communication Technology (2021- expected graduate in 2025)
 
 ## Work Experience
 

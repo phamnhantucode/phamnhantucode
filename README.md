@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Profile Picture](https://static.topcv.vn/avatars/95EJ9bBcexvVWtuG6Uz0_63ee334c17406_cvtpl.jpg)
 
-Hello, I'm a beginner Mobile Developer. I'm currently learning Mobile development through online courses (Youtube), documents and make personal projects. I'm excited to start my journey in the Mobile development industry and I'm eager to learn from experienced developers. Although I'm new to Mobile development, I'm committed to honing my skills and building innovative mobile applications that provide value to users. I'm a hard worker and I'm always willing to take on new challenges. As a beginner Mobile Developer, I'm looking forward to learning as much as possible and contributing to the development of cutting-edge mobile applications.
+Hello, I'm a fresher Mobile Developer. I'm currently working for Mobile development in Mobile production company. I'm excited to start my journey in the Mobile development industry and I'm eager to learn from experienced developers. Although I'm new to Mobile development, I'm committed to honing my skills and building innovative mobile applications that provide value to users. I'm a hard worker and I'm always willing to take on new challenges. As a beginner Mobile Developer, I'm looking forward to learning as much as possible and contributing to the development of cutting-edge mobile applications.
 
 ## Skills
 
